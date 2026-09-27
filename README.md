@@ -23,9 +23,9 @@ aisc-site/
 │       ├── earth-launch.jpg
 │       ├── spaceport.jpg
 │       ├── control-room.jpg
-│       ├── favicon.svg
-│       ├── logo-header.png              logo AISC (version chrome claire, pour fonds sombres — header/footer)
-│       ├── logo-print.png               même logo en version sombre (pour fonds clairs, print/letterhead)
+│       ├── favicon.png                   icône du site (nouveau logo, 2026)
+│       ├── logo-header.png              nouveau logo AISC 2026 (icône + A.I.S.C) — header/footer
+│       ├── logo-print.png               même logo en plus haute résolution — usages plus grands (print, README)
 │       ├── logo-original-ameliore.jpg   (ancien logo fourni, nettoyé — conservé en secours)
 │       └── partners/                    logos des partenaires (Progenis BioSystems, ExoMecha)
 └── README.md
