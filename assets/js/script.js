@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
       }
 
-      var to = "aisc.space.technologies@gmail.com";
+      var to = "contact@aisc-space.com";
       var mailSubject = encodeURIComponent(subject ? subject : t.defaultSubject);
       var bodyLines = [
         t.nameLabel + name,

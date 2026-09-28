@@ -66,7 +66,7 @@ Pour changer une couleur de la marque, modifiez les variables en haut du fichier
 
 ## Formulaire de contact
 
-Le formulaire de la page `contact.html` fonctionne en mode `mailto:` : il ouvre le client email du visiteur avec le message pré-rempli, à destination de `aisc.space.technologies@gmail.com`. Aucun serveur n'est nécessaire, mais cela suppose que le visiteur ait un client email configuré sur son appareil.
+Le formulaire de la page `contact.html` fonctionne en mode `mailto:` : il ouvre le client email du visiteur avec le message pré-rempli, à destination de `contact@aisc-space.com`. Aucun serveur n'est nécessaire, mais cela suppose que le visiteur ait un client email configuré sur son appareil.
 
 Si vous préférez que les messages arrivent directement sans ouvrir de client email, il faudra brancher un service tiers de formulaires (ex. Formspree, Web3Forms) ou un petit script serveur — n'hésitez pas à me le demander, je peux l'intégrer.
 
